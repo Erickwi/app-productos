@@ -1,9 +1,9 @@
 body {
   font-family: Arial, sans-serif;
   padding: 20px;
-  background: #f9f9f9;
+  background: url('../img/fondo.jpg') no-repeat center center fixed;
+  background-size: cover;
 }
-
 #formulario {
   margin-bottom: 20px;
 }
